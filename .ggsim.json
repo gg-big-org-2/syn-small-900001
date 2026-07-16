@@ -1,0 +1,18 @@
+{
+  "generator_version": "1",
+  "role": "probe-filler",
+  "seed": 900001,
+  "size_class": "small",
+  "secret_count": 1,
+  "secrets": [
+    {
+      "detector": "rapidapi_key",
+      "branch": "main",
+      "path": "config/credentials.java",
+      "line": 3,
+      "end_line": 4,
+      "commit": "a5839543229f04e384334c7029d7d31eaa797ac4",
+      "shared": false
+    }
+  ]
+}
